@@ -1,0 +1,2 @@
+# LDTS Project
+Minesweeper game developed to learn more about java, object-oriented programming and design patterns. Gradle was used, as well as Laterna to develop the game. Done with João Proença and Rodrigo Resende.
